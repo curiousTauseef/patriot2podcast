@@ -1,0 +1,6 @@
+beautifulsoup4
+feedgen
+
+python-dateutil
+pytz
+
